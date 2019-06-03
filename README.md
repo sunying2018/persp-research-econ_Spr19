@@ -79,13 +79,13 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | May  6 | M | Workshop papers/office visits | [Schedule](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/OfficeVisits/README.md) |  |
 | May  8 | W | Dynamic programming with interpolation | [Notebk](Notebooks/DynProgIntpl/DynProgIntpl.ipynb) | [PS2](Assignments/PS2/PS2.pdf) |
 | May 13 | M | Dynamic programming with interpolation |  |  |
-| May 15 | W | Overlapping generations models | Notes | PS3 |
+| May 15 | W | Overlapping generations models | [Notes](Notes/OGtext_ch02.pdf) | [PS3](Assignments/PS3/PS3.pdf) |
 | May 20 | M | Overlapping generations models |  |  |
-| May 22 | W | Workshop papers/office visits |   | Methods/initial results section |
+| May 22 | W | Workshop papers/office visits | [Schedule](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/OfficeVisits/README.md) | [Methods/initial results section](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/Assignments/methods-results.md) |
 | May 27 | M | **No class (Memorial Day Holiday)** |  |  |
-| May 29 | W | Effective presentations, poster,slides | Notes  |  |
-| Jun  3 | M | Markov and hidden Markov models | Notes | PS 4 |
-| Jun  5 | W | In-class poster presentations |  | Poster |
+| May 29 | W | Effective presentations, poster, slides | [Notes](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/Assignments/poster.md)  |  |
+| Jun  3 | M | Markov and hidden Markov models | Notes | [PS 4](Assignments/PS4/PS4.pdf) |
+| Jun  5 | W | In-class poster presentations |  | [Poster](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/Assignments/poster.md) |
 | Jun  9 | Su | Final papers due at 11:59pm |  | Papers due |
 
 
